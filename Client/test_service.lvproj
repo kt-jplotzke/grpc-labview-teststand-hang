@@ -67,7 +67,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3A41C3CC-00DB-4198-827E-BCDF956E2076}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">gRPC Client Calls.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../packed_library/gRPC Client Calls.lvlibp</Property>
