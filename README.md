@@ -5,9 +5,9 @@ This code shows a condition where the gRPC Client VI hangs at "Wait for Occurren
 More information on this issue can be found here: [https://github.com/ni/grpc-labview/issues/330](https://github.com/ni/grpc-labview/issues/330)
 
 ## Development Environment Setup
-LabVIEW 2021 SP1 f4 64-bit
-TestStand 2021 64-bit
-grpc-labview 1.0.1.1
+- LabVIEW 2021 SP1 f4 64-bit
+- TestStand 2021 64-bit
+- grpc-labview 1.0.1.1
 
 ## gRPC Proto File
 The proto file which was used to generate both the server and client example is in the `proto` directory
