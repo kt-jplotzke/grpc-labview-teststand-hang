@@ -2,7 +2,7 @@
 
 This code shows a condition where the gRPC Client VI hangs at "Wait for Occurrence" when being called from TestStand using the LabVIEW Run Time adapter.
 
-More information on this issue can be found here: (https://github.com/ni/grpc-labview/issues/330)[https://github.com/ni/grpc-labview/issues/330]
+More information on this issue can be found here: [https://github.com/ni/grpc-labview/issues/330](https://github.com/ni/grpc-labview/issues/330)
 
 ## Development Environment Setup
 LabVIEW 2021 SP1 f4 64-bit
