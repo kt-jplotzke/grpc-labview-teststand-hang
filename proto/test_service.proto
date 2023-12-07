@@ -1,0 +1,16 @@
+
+syntax = "proto3";
+
+package test_service;
+
+service TestService {
+	rpc WaitMs(WaitRequest) returns (WaitResponse);
+}
+
+message WaitRequest {
+	uint64 msec_to_wait = 1;
+}
+
+message WaitResponse {
+	uint64 timestamp = 1;
+}
